@@ -20,8 +20,8 @@ Steps
 Python Application: Develop a Python application with:
 
 Deliverables :
-* Jupyter Notebook (KocFinans_case.ipynb).
-* Dump of the final model (final_model.pkl).
+* Jupyter Notebook (KocFinans_CaseStudy.ipynb).
+* Dump of the final model (model.pkl).
 * Encoder object (encoder.pkl).
 * Requirements file (requirements.txt).
 * Dockerfile (Dockerfile).

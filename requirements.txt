@@ -4,3 +4,4 @@ pandas==1.2.4
 numpy==1.19.5
 xgboost==1.5.1
 category_encoders==2.5.0
+gunicorn==21.2.0
